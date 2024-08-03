@@ -1,0 +1,3 @@
+[submodule "RelayChat-Identity"]
+	path = RelayChat-Identity
+	url = https://github.com/Schoggi0815/RelayChat-Identity
